@@ -1,16 +1,48 @@
 
 # Hola soy Yeiler Montes👋
+<br>
 
+## 🙋Sobre mí
+
+¡Pura vida! Soy Yeiler Montes Rojas, estudiante apasionado de Ingeniería en Sistemas en la Universidad Nacional de Costa Rica (UNA), proveniente de Sarapiquí, Heredia, Costa Rica. Actualmente curso mi cuarto año, siempre con la motivación de seguir aprendiendo, compartiendo y creciendo profesionalmente como desarrollador.
+
+* 💻 Apasionado por el desarrollo de software y las tecnologías emergentes.
+* 🧠 Amante del aprendizaje continuo y la resolución de problemas.
+* 🤝 Disfruto colaborar en proyectos con impacto real y valor profesional.
+
+## ⭐Proyectos Destacados
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1wwf4sWgsdGam9HWPTofcGPvjimn83Q3n" alt="Vista 1 del Sistema de Gestión" width="45%" style="margin-right: 10px;" />
+  <img src="https://drive.google.com/uc?export=view&id=1yuDuV0u-_QDQoJtlETAjx2Xi2WuIwnQD" alt="Vista 2 del Sistema de Gestión" width="45%" />
+</p>
+
+### 🛒 Sistema de Gestión de Inventario y Ventas
+
+Proyecto académico desarrollado a lo largo de **Ingeniería en Sistemas I, II y III** durante **1 año y medio**, en colaboración con **3 compañeros**, orientado a cubrir las necesidades de una tienda real.
+
+📌 **Características principales:**
+- Gestión de productos, proveedores y clientes.
+- Registro y control de ventas.
+- Interfaz de escritorio amigable usando **Electron**.
+- Panel de administrador en React para una experiencia moderna y fluida.
+- Backend robusto con Node.js y Express.
+
+🛠 **Tecnologías utilizadas:**  
+`React`, `Node.js`, `Express`, `Electron`, `CSS`
+
+🤝 **Trabajo colaborativo:** Proyecto desarrollado en equipo, fomentando buenas prácticas de control de versiones, comunicación efectiva y metodologías ágiles.
+
+🔗 **Repositorio:** [SistemaInventarioTienda](https://github.com/SistemaInventarioTienda/SistemaInventarioTienda)
+
+🤝 **Colaboradores** [Aaron Matarrita](https://github.com/AaronMatarrita), [Daniel Briones](), [Josue Porras](), [Yeiler Montes]()
 
 ## 🌐 Socials:
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yeiler-montes-rojas-932313174) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yeiler.montes.rojas@est.una.ac.cr) 
 
 ## 💻 Tecnologias y Herramientas:
 
 ### ⚙️Lenguajes de programación:
-
+<br>
 <div>
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
@@ -22,6 +54,7 @@
 </div>
 
 ### 🌐Frameworks y desarollo web:
+<br>
 <div>
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
@@ -32,12 +65,14 @@
 </div>
 
 ### 🗄️Base de datos:
+<br>
 <div >
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
   <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="MSSQL" title="MSSQL"/></code>
 </div>
 
 ### 🛠️Herramientas y Entornos
+<br>
 <div >
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" alt="Android Studio" title="Android Studio"/></code>
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
@@ -47,31 +82,28 @@
 </div>
 
 ### 🎨Diseño y Productividad
+<br>
 <div>
   <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="Notion" title="Notion"/></code>
   <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></code>
-	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" title="Canva"/></code>
+<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" title="Canva"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" alt="Jira" title="Jira"/></code>
 </div>
 
 ### 📋Metodologías y Control de versiones
-
+<br>
 <div >
-	<code><img width="40" src="https://cdn-icons-png.flaticon.com/512/8553/8553379.png" alt="Scrum" title="Scrum"/></code>
+<code><img width="40" src="https://cdn-icons-png.flaticon.com/512/8553/8553379.png" alt="Scrum" title="Scrum"/></code>
   <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
   <code><img width="40" src="https://img.icons8.com/ios11/512/FFFFFF/github.png" alt="Github" title="Github"/></code>
   
 </div>
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-
-# 📊 GitHub Stats:
+# 📊 Estadisticas Github:
 ![](https://github-readme-stats.vercel.app/api?username=YeilerMR&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=YeilerMR&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YeilerMR&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YeilerMR&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=YeilerMR&limit=5&theme=dark&combine_all_yearly_contributions=true)
