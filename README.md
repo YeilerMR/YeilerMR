@@ -11,14 +11,15 @@
 * 🤝 Disfruto colaborar en proyectos con impacto real y valor profesional.
 
 ## ⭐Proyectos Destacados
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1wwf4sWgsdGam9HWPTofcGPvjimn83Q3n" alt="Vista 1 del Sistema de Gestión" width="45%" style="margin-right: 10px;" />
-  <img src="https://drive.google.com/uc?export=view&id=1yuDuV0u-_QDQoJtlETAjx2Xi2WuIwnQD" alt="Vista 2 del Sistema de Gestión" width="45%" />
-</p>
+
 
 ### 🛒 Sistema de Gestión de Inventario y Ventas
 
 Proyecto académico desarrollado a lo largo de **Ingeniería en Sistemas I, II y III** durante **1 año y medio**, en colaboración con **3 compañeros**, orientado a cubrir las necesidades de una tienda real.
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1wwf4sWgsdGam9HWPTofcGPvjimn83Q3n" alt="Vista 1 del Sistema de Gestión" width="45%" style="margin-right: 10px;" />
+  <img src="https://drive.google.com/uc?export=view&id=1yuDuV0u-_QDQoJtlETAjx2Xi2WuIwnQD" alt="Vista 2 del Sistema de Gestión" width="45%" />
+</p>
 
 📌 **Características principales:**
 - Gestión de productos, proveedores y clientes.
@@ -34,7 +35,35 @@ Proyecto académico desarrollado a lo largo de **Ingeniería en Sistemas I, II y
 
 🔗 **Repositorio:** [SistemaInventarioTienda](https://github.com/SistemaInventarioTienda/SistemaInventarioTienda)
 
-🤝 **Colaboradores** [Aaron Matarrita](https://github.com/AaronMatarrita), [Daniel Briones](), [Josue Porras](), [Yeiler Montes]()
+🤝 **Colaboradores:** [Aaron Matarrita](https://github.com/AaronMatarrita), [Daniel Briones](https://github.com/A-BrionesVargas), [Josue Porras](https://github.com/JosuePorras), [Yeiler Montes](https://github.com/YeilerMR)
+
+---
+### 📱 Plataforma Móvil para la Gestión de Cursos
+
+Proyecto final del curso de **Diseño y programación de plataformas móviles** enfocado en la gestiòn de cursos y evaluaciones para estudiantes en general o principalmente para los estudiantes de la Universidad Nacional de Costa Rica.
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1Bg3mTk_h-0nScUA7CKDoE60U5J-3H56Q" alt="Vista 1 del Inicio Sesión" width="15%"/>
+  <img src="https://drive.google.com/uc?export=view&id=18Q5uHzIqEIUb3nXI8wr2JKW6lwjvCvZf" alt="Vista 2 de la Página Principal" width="15.7%"/>
+  <img src="https://drive.google.com/uc?export=view&id=1fPObHRfcdBYnNfEP1Bpoc58WaGi9hLUH" alt="Vista 2 del Curso" width="14.9%"/>
+  <img src="https://drive.google.com/uc?export=view&id=119_D-4_kI4stbjCfvc_mptK1D2uRVwav" alt="Vista 2 del Calendario" width="13.8%"/>
+  <img src="https://drive.google.com/uc?export=view&id=1KT2wD0tZGYB_igLezm3XfyewHSqIUnkr" alt="Vista 2 del Perfil" width="14.8%"/>
+</p>
+
+📌 **Características principales:**
+- Gestión de Cursos, Evaluaciones y Notas.
+- Registro automatico de cursos y profesores con el programa del curso(documento PDF).
+- Calendario didactico con las evaluaciones registradas.
+- Opciones de configuración de perfíl y apartado de notas del curso.
+- Backend y Frontend robusto desarrollado con .Net y Jetpack Compose.
+
+🛠 **Tecnologías utilizadas:**  
+`Node.js`, `Jetpack Compose`, `Retrofit`, `SQL Server`, `Swagger`
+
+🤝 **Trabajo colaborativo:** Proyecto desarrollado en equipo, fomentando buenas prácticas de control de versiones, comunicación efectiva y metodologías ágiles.
+
+🔗 **Repositorio:** [SistemaInventarioTienda](https://github.com/SistemaInventarioTienda/SistemaInventarioTienda)
+
+🤝 **Colaboradores:** [Aaron Matarrita](https://github.com/AaronMatarrita), [Dilan Gutiérrez](https://github.com/A-BrionesVargas), [Josue Porras](https://github.com/JosuePorras), [Yeiler Montes](https://github.com/YeilerMR)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yeiler-montes-rojas-932313174) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yeiler.montes.rojas@est.una.ac.cr) 
