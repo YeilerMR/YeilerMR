@@ -61,12 +61,13 @@ Proyecto final del curso de **Diseño y programación de plataformas móviles** 
 
 🤝 **Trabajo colaborativo:** Proyecto desarrollado en equipo, fomentando buenas prácticas de control de versiones, comunicación efectiva y metodologías ágiles.
 
-🔗 **Repositorio:** [SistemaInventarioTienda](https://github.com/SistemaInventarioTienda/SistemaInventarioTienda)
+🔗 **Repositorios:** 
+* [TaskMind(Backend)](https://github.com/YeilerMR/TaskMind)
+* [TaskMind(Frontend)](https://github.com/JosuePorras/taskmind-u-app)
 
-🤝 **Colaboradores:** [Aaron Matarrita](https://github.com/AaronMatarrita), [Dilan Gutiérrez](https://github.com/A-BrionesVargas), [Josue Porras](https://github.com/JosuePorras), [Yeiler Montes](https://github.com/YeilerMR)
+🤝 **Colaboradores:** [Aaron Matarrita](https://github.com/AaronMatarrita), [Dilan Gutiérrez](https://github.com/DilanGOD02), [Josue Porras](https://github.com/JosuePorras), [Yeiler Montes](https://github.com/YeilerMR)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yeiler-montes-rojas-932313174) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yeiler.montes.rojas@est.una.ac.cr) 
+---
 
 ## 💻 Tecnologias y Herramientas:
 
@@ -134,10 +135,10 @@ Proyecto final del curso de **Diseño y programación de plataformas móviles** 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YeilerMR&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YeilerMR&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📬 Contactos:
+**Perfíl en LinkedIn:** **[https://www.linkedin.com/in/yeiler-montes-rojas-932313174/]**
+<br>
+**Correo Electronico:** **[yeiler.montes.rojas@est.una.ac.cr]**
 
----
-[![](https://visitcount.itsvg.in/api?id=YeilerMR&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
